@@ -4,8 +4,6 @@
 
 Coursework for Stanford's graduate course on making optimal decisions when outcomes are uncertain, information is incomplete, and the environment has to be learned from data. The course covers probabilistic modeling, Markov decision processes, reinforcement learning, and planning under partial observability, following *Algorithms for Decision Making* (Kochenderfer, Wheeler & Wray).
 
-Each project is a competition. Every model is scored on the same hidden metric, and the class is ranked on a leaderboard.
-
 | Project | Topic | Core Methods | Status |
 |---|---|---|---|
 | [1](#project-1-bayesian-network-structure-learning) | Bayesian Network Structure Learning | K2 search, hill climbing, Bayesian scoring | ✅ Complete |
